@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&family=Roboto:ital,wght@0,100;0,300;0,400;1,100;1,300&display=swap');
+
+#rootClass-form {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	justify-content: space-around;
+    font-family: 'Roboto', sans-serif;
+	background-color: rgba(255, 241, 241, 0.422);
+	font-weight: bold;
+
+}
+
+h3 p {
+	font-size: 10px;
+	font-weight: 300;
+	padding-bottom: 0px;
+	margin-bottom: -10px;
+}
+
+.button{
+	background-color: #4CAF50;
+	width: 20%;
+	border-radius: 7px;
+}
